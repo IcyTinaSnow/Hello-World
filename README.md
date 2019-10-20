@@ -1,2 +1,5 @@
 # Hello-World
-Just Another Repositiry
+
+Hello Guys
+
+Its a noob, I want to learn how to code
